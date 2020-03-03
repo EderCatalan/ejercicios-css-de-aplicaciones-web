@@ -1,0 +1,13 @@
+body{
+   background-color: pink; 
+   border:10px black dotted;
+   margin-left:10px;
+   margin-right:10px;
+   padding:5px 5px 5px 5px;
+}
+h1{
+    color:red;
+}
+h2{
+    color:purple;
+}
